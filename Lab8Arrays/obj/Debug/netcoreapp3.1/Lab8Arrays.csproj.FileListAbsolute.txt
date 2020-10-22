@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.exe
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.deps.json
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.runtimeconfig.json
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.dll
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.pdb
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.AssemblyInfo.cs
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.dll
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.pdb
+C:\Users\acran\source\repos\Labs\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.genruntimeconfig.cache
